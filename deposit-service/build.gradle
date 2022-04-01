@@ -15,7 +15,7 @@ repositories {
 jar {
     manifest {
         attributes(
-                'Main-Class': 'ru.job4j.deposit.DepositService'
+                'Main-Class': 'ru.job4j.deposit.DepositApplication'
         )
     }
 }
